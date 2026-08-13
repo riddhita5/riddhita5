@@ -112,11 +112,11 @@ More projects will be added here as they are completed and published.
   <img src="https://streak-stats.demolab.com?user=riddhita5&theme=tokyonight&hide_border=true" />
 </p>---
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/riddhita5/riddhita5/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>---
+</p>
 
 🤝 Connect With Me
 
