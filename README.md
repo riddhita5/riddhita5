@@ -98,19 +98,12 @@ I'm currently building and improving my Flutter projects.
 More projects will be added here as they are completed and published.
 
 ---
-
-📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riddhita5&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhita5&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>---
-
-🔥 GitHub Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=riddhita5&theme=tokyonight&hide_border=true" />
-</p>---
+  <img src="https://github-stats-extended.vercel.app/api?username=riddhita5&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=riddhita5&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ## 🐍 Contribution Snake
 
