@@ -16,9 +16,9 @@ I'm a Flutter Developer passionate about building modern, responsive, and user-f
 My primary technology is Flutter with Dart, and I enjoy creating clean UI, integrating APIs, connecting applications with Firebase, and building practical mobile app solutions.
 
 - 💙 Core Technology: Flutter & Dart
-- 🔥 Backend Services: Firebase
+- 🔥 Backend Services: Firebase, Supabase 
 - 🌐 API Integration: REST APIs
-- 🎯 State Management: GetX
+- 🎯 State Management: GetX, Block, Provider,      Riverpod
 - 🗄️ Local Storage: SQLite & SharedPreferences
 - 🎨 Focus: UI Development & Responsive Design
 - 🔧 Version Control: Git & GitHub
@@ -80,8 +80,8 @@ Real-World Mobile Applications
 🚀 Currently Learning
 
 - 📱 Advanced Flutter Development
-- 🎯 GetX & State Management
-- 🔥 Firebase & Firestore
+- 🎯 State Management
+- 🔥 Firebase & Firestore & Supabase 
 - 🌐 REST API Integration
 - 💾 Local Storage & Offline Data
 - 🎨 Modern Flutter UI & Responsive Design
